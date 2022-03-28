@@ -2,7 +2,6 @@
 
 Easily embed beautiful NFT feeds on your WordPress site. Simply enter your wallet address and go! 
 
-![](images/feed.png)
 ### Effortless setup
 
 All you need is your wallet address!
