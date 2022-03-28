@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Spotlight - NFT Feeds
 
-You can use the [editor on GitHub](https://github.com/RebelCode/spotlight-nft-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Easily embed beautiful NFT feeds on your WordPress site. Simply enter your wallet address and go! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](images/feed.png)
+### Effortless setup
 
-### Markdown
+All you need is your wallet address!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](images/connect.png)
 
-```markdown
-Syntax highlighted code block
+### Easy customization
 
-# Header 1
-## Header 2
-### Header 3
+Edit and customize your feeds with Spotlight's intuitive editor and a live preview.
 
-- Bulleted
-- List
+![](images/editor.png)
 
-1. Numbered
-2. List
+### Unlimited feeds
 
-**Bold** and _Italic_ and `Code` text
+Create as many feeds as you want, with different wallets or options.
 
-[Link](url) and ![Image](src)
-```
+![](images/feeds-list.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Download
 
-### Jekyll Themes
+_**Spotlight NFT Feeds**_ will be available for download soon.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RebelCode/spotlight-nft-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Requirements
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* **WordPress**: 5.5 or later
+* **PHP**: 7.1 or later
+* **PHP Extensions**:
+  * curl
+  * json
+  * gd
