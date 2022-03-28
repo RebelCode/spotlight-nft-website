@@ -1,6 +1,5 @@
-# Spotlight - NFT Feeds
-
-Easily embed beautiful NFT feeds on your WordPress site. Simply enter your wallet address and go! 
+**Spotlight NFT Feeds** is a WordPress plugin that lets you create galleries for
+your NFTs.
 
 ### Effortless setup
 
@@ -22,9 +21,9 @@ Create as many feeds as you want, with different wallets or options.
 
 ## Download
 
-_**Spotlight NFT Feeds**_ will be available for download soon.
+_Coming soon!_
 
-## Requirements
+### Requirements
 
 * **WordPress**: 5.5 or later
 * **PHP**: 7.1 or later
